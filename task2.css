@@ -1,0 +1,40 @@
+.nav{
+    background-color:rgb(4, 99, 122);
+position: fixed;
+width: 100%;
+z-index: 1;
+color: white;
+}
+.card
+{
+
+    display:-webkit-inline-box;
+}
+#c1{
+    display:inline-flexbox;
+}
+.nav-link{
+    color: rgb(243, 247, 245);
+;
+}
+#b{background:rgba(17, 17, 17, 0.836);
+color:white;
+height:60px;
+border-radius: 8px;}
+
+   #b:hover{
+        background:rgb(44, 108, 226);
+    }
+ .i:hover{
+     background:rgb(139, 137, 137);}
+
+     .i:hover{color:black;}
+     .i{
+         float:right;
+     }
+     .b1{
+         border-color:white;
+     }
+    .b1:hover{
+         background:rgb(44, 108, 226);
+     }
